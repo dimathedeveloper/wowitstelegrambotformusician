@@ -1,2 +1,3 @@
-# Anonymous-chat-bot-telegram
-Anonymous chat bot telegram https://youtu.be/_035pNI3-xY
+# Telegram-bot
+Chat bot telegram for musician with added db
+
